@@ -1,0 +1,10 @@
+{
+  "name": "pi-extensions",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "devDependencies": {
+    "@earendil-works/pi-coding-agent": "0.85.1"
+  },
+  "packageManager": "pnpm@12.8.1"
+}
